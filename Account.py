@@ -5,6 +5,18 @@ class Account:
         pass
     def getMagicFind():
         pass
+    
+    
+class AccountAccessStrategy:
+    def getStrategy(int):
+        pass
+        
+class Level0AccountStrategy:
+    def viewAccount():
+        pass
+    def modifyAccount():
+        pass
+    
 """
 Provided Interface
 int getID();
