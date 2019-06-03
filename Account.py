@@ -16,6 +16,14 @@ class Level0AccountStrategy:
         pass
     def modifyAccount():
         pass
+  
+class Level2AccountAccess:
+    def viewAccount():
+        pass
+    def modifyAccount():
+        pass
+    def deleteAccount():
+        pass
     
 """
 Provided Interface
