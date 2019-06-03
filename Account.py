@@ -10,10 +10,7 @@ class Account:
 class AccountAccessStrategy:
     def getStrategy(int):
         pass
-        
-class AccountAccessSecurityStrategy:
-    def getStrategy(int):
-        pass
+       
     
 """
 Provided Interface
