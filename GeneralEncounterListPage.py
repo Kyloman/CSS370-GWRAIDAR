@@ -1,8 +1,10 @@
 class GeneralEncounterListPage:
     def displayUpdate():
         pass
+	
     def display():
         pass
+
 	def encounterFilter():
 		pass    
 
