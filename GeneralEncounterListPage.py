@@ -3,6 +3,8 @@ class GeneralEncounterListPage:
         pass
     def display():
         pass
+    
+    # user passes in the encounter log file and the filter would filter out the character's magic find and calculates the drop rate items for each boss
 	def encounterFilter():
 		pass    
 
