@@ -3,12 +3,15 @@ class GeneralEncounterListPage:
         pass
     def display():
         pass
+	def encounterFilter():
+		pass    
 
 """
 List<Encounter> getEncounterList();
 Provided Interface
 void displayUpdate();
-void display();
+void display();
+
 Required Interface
 List<GeneralEncounter> getGeneralEncounterList();
 Provided Interface
@@ -17,4 +20,4 @@ void display();
 Description:
 The page shows all the general encounters title.
 Parameters:
-This model requires no parameters."""
+This model requires no parameters."""
