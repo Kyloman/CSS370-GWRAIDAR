@@ -5,8 +5,8 @@ class GeneralEncounterListPage:
     def display():
         pass
 
-	def encounterFilter():
-		pass    
+    def encounterFilter():
+        pass    
 
 """
 List<Encounter> getEncounterList();
