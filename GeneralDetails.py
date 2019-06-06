@@ -1,7 +1,20 @@
 class GeneralDetails:
-
+    def getDPS():
+        return double
+    def getFoodBuffTime():
+        return double
+    def getHealing():
+        return double
+    def getDamageTaken():
+        return double
+    def getAverageClearTime():
+        return int
+    def getSuccessRate():
+        return double
+    def getPopularClasses():
+        return String
 """
-It is an empty class
+
 Provided Interface
 double getDPS();
 double getFoodBuffTime();

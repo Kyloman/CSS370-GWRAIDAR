@@ -3,3 +3,6 @@ class GeneralEncounterPage:
         pass
     def display(Encounter):
         pass
+    def getDetails():
+        return GeneralDetails 
+

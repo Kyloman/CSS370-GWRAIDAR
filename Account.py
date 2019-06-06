@@ -5,13 +5,15 @@ class Account:
         pass
     def getMagicFind():
         pass
-    
-    
-class AccountAccessStrategy:
-    def getStrategy(int):
+    def getID():
+        return int
+    def setPwd():
         pass
-       
-    
+    def setEmail():
+        return String
+    def getName():
+        return String
+
 """
 Provided Interface
 int getID();

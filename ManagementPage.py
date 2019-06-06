@@ -10,11 +10,11 @@ class ManagementPage:
     def displayEmailConfirmation():
         pass
     def submitCode(str):
-        pass
+        return bool
     def displayDeleteFail():
         pass
     def delete():
-        pass
+        return bool
 """
 Required Interface
 Account getAccount();

@@ -1,8 +1,2 @@
 class GeneralEncounter:
-    def getDetails():
-        pass
- 
-class DataAccessStrategy:
-    def getStrategy(int):
-        pass
- 
+    def getDetails():        return GeneralDetails 
