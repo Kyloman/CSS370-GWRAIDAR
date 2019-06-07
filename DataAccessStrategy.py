@@ -2,19 +2,16 @@ class DataAccessStrategy:
   def getStrategy(int):
     pass
   
-class Level0AccountAccess:
-  def viewAccount():
-    pass
-  def modifyAccount():
+class ContributorAccess:
+  def pushUpdates():
     pass
   
-class Level2AccountAccess:
-  def viewAccount():
+class DeveloperAccess:
+  def pushUpdates():
     pass
-  def modifyAccount():
+  def approveUpdates():
     pass
-  def deleteAccount():
-    pass
+    
   
 """
 Security Strategy:
