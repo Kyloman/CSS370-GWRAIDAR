@@ -10,15 +10,15 @@
 class Details:
     
     def getDps():
-        return DPS
+        return double
     
     def foodBuffTime():
-        return foodBuffTime
+        return double
     
     def Healing():
-        return Healing
+        return double
     
     def DamageTaken():
-        return DamageTaken
+        return double
 
     
