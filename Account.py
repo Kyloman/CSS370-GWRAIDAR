@@ -1,6 +1,6 @@
 class Account:
     def getAccount():
-        return currAccount
+        return Account
     
     def delete():
         pass
@@ -9,7 +9,7 @@ class Account:
         return float
     
     def getID():
-        return userID
+        return int
     
     def setPwd():
         pass
@@ -18,10 +18,10 @@ class Account:
         pass
     
     def getEmail():
-        return email
+        return string
     
     def getName():
-        return name
+        return string
 
 """
 Provided Interface
