@@ -9,7 +9,7 @@
 
 class Encounter:
     def getDetails():
-        return details
+        return Details
     
     def getDate():
-        return currDate
+        return date
