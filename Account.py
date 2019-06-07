@@ -1,18 +1,27 @@
 class Account:
     def getAccount():
-        pass
+        return currAccount
+    
     def delete():
         pass
+    
     def getMagicFind():
-        pass
+        return float
+    
     def getID():
-        return int
+        return userID
+    
     def setPwd():
         pass
+    
     def setEmail():
-        return String
+        pass
+    
+    def getEmail():
+        return email
+    
     def getName():
-        return String
+        return name
 
 """
 Provided Interface
