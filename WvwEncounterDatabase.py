@@ -10,7 +10,7 @@
 
 class WvwEncounterDatabase:
     def getWvWEncounterList():
-        pass
+        return WvWEncounterListPage
     
     def add(WvwEncounter we):
         pass
