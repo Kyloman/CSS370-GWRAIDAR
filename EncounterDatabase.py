@@ -5,6 +5,9 @@
 #List<Encounter> getEncounterList
 
 class EncounterDatabase:
+
+    encounter = Encounter() # EncounterDatabase relationship with Encounter class
+
     def displayUpdate():
         pass
     

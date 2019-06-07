@@ -1,4 +1,7 @@
 class AccountPage:
+
+    account = Account() #AccountPage has a relationship with Account
+    
     def displayUpdate():
         pass
     def display():
@@ -12,4 +15,5 @@ String getEmail();
 String getName();
 Provided Interface
 void displayUpdate();
-void display();"""
+void display();
+"""

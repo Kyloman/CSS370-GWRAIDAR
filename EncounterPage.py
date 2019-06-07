@@ -8,6 +8,9 @@
 # 1. Encounter: An encounter object which provides the encounter info.
 
 class EncounterPage:
+
+    encounter = Encounter() # EcounterPage relationship with Encounter class
+
     def displayUpdate():
         pass
 

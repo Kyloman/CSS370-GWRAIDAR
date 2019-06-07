@@ -8,6 +8,9 @@
 # 1. Encounter parameter are required to choose by the user.
 
 class ComparePage:
+
+    encounter = Encounter() # ComparePage relationship with Encounter class
+
     def display(Encounter ec1, Encounter ec2):
         pass
     

@@ -8,6 +8,8 @@
 #Details: Store the detail object which contains all the basic info of each squad member including DPS, healing, damage taken and food buff time.
 
 class Encounter:
+
+    details = Details(); #Encounter has a relationship with Detail class
     def getDetails():
         return Details
     

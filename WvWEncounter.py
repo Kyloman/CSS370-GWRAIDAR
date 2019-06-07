@@ -4,6 +4,6 @@
 #Parameters:
 #Store the detail object which contains all the basic info of each squad member including DPS, healing, damage taken and food buff time.
 
-class WvwEncounter:
+class WvwEncounter(Encounter):
     def getDetails():
         pass

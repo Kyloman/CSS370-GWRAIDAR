@@ -8,7 +8,10 @@
 # 1. WvW encounter: WvW Encounter is required to know what to add.
 # 2. LogFile file: file that user inputs
 
-class WvwEncounterDatabase:
+class WvwEncounterDatabase(EncounterDatabase):
+
+    wvwEncounter = WvwEncounter() #WvwEncounterDatabase has a relationship with WvwEncounter
+    
     def getWvWEncounterList():
         return WvWEncounterListPage
     

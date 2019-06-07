@@ -1,5 +1,7 @@
-
 class GeneralEncounterDatabase:
+
+    generalEncounter = GeneralEncounter() #GeneralEncounterDatabase has a relationship with GeneralEncounter
+    
     def getEncounterDetails(Encounter):
         pass
     def getEncounterList():
