@@ -10,4 +10,7 @@
 class ComparePage:
     def display(Encounter ec1, Encounter ec2):
         pass
+    
+    def displayUpdate()
+        pass
 
